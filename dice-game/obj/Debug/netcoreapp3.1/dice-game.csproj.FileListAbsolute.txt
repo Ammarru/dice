@@ -1,0 +1,15 @@
+D:\Projects\dice-game\dice-game\bin\Debug\netcoreapp3.1\dice-game.exe
+D:\Projects\dice-game\dice-game\bin\Debug\netcoreapp3.1\dice-game.deps.json
+D:\Projects\dice-game\dice-game\bin\Debug\netcoreapp3.1\dice-game.runtimeconfig.json
+D:\Projects\dice-game\dice-game\bin\Debug\netcoreapp3.1\dice-game.runtimeconfig.dev.json
+D:\Projects\dice-game\dice-game\bin\Debug\netcoreapp3.1\dice-game.dll
+D:\Projects\dice-game\dice-game\bin\Debug\netcoreapp3.1\dice-game.pdb
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.csprojAssemblyReference.cache
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice_game.Form1.resources
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.csproj.GenerateResource.cache
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.AssemblyInfoInputs.cache
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.AssemblyInfo.cs
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.csproj.CoreCompileInputs.cache
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.dll
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.pdb
+D:\Projects\dice-game\dice-game\obj\Debug\netcoreapp3.1\dice-game.genruntimeconfig.cache
